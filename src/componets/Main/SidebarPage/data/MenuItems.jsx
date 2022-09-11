@@ -17,9 +17,7 @@ const items = [
   },
   {
     label: '人员管理', icon: <TeamOutlined />, key: 'k4', children: [
-      {
-        label: '人员档案', icon: <UserOutlined />, key: 'k5',
-      },
+      { label: '人员档案', icon: <UserOutlined />, key: 'k5', },
       { label: '员工合同', icon: <UserOutlined />, key: 'k6', },
       { label: '奖惩处罚', icon: <UserOutlined />, key: 'k7', },
       { label: '转正申请', icon: <UserOutlined />, key: 'k8', },
